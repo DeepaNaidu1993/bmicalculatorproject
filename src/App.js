@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Bmicalculator from './components/bmicalculator';
+import Bmicalculator from './components/bmi';
 
 function App() {
   return (
