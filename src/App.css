@@ -66,6 +66,7 @@
   text-align: center;
 }
 
+
 .btn >button{
   background-color: #E07400;
   font-size: 32px;
@@ -75,4 +76,17 @@
   width: 306px;
   height: 62px;
   margin-right: 20px;
+}
+
+@media only screen and (max-width: 600px)
+{
+  .header > h1
+  {
+    font-size: 38px;
+    
+  }
+
+  .btn > button {
+    margin-bottom: 20px;
+  }
 }
