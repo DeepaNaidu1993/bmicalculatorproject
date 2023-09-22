@@ -89,4 +89,8 @@
   .btn > button {
     margin-bottom: 20px;
   }
+
+  .toplayer{
+    height: fit-content;
+  }
 }
